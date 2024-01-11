@@ -1,0 +1,8 @@
+.Content_warp {
+  display: flex;
+  width: 1080px;
+  height: 30%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}

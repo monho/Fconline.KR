@@ -1,13 +1,10 @@
 // `app/page.tsx` is the UI for the `/` URL
 import "./main.css";
 
-
-
-
 function Footer() {
   return (
-      <div className="Warp_footer">
-        <svg
+    <div className="Warp_footer">
+      <svg
         width="243"
         height="47"
         viewBox="0 0 243 47"
@@ -20,9 +17,8 @@ function Footer() {
         />
       </svg>
       <span className="InfoTexts">© All Rights Reserved. Hosted by FCO.KR</span>
-      <span className="InfoText">Data based on NEXON Open API</span>
-      </div>
-     
+      <span className="InfoTexts">Data based on NEXON Open API</span>
+    </div>
   );
 }
 export default Footer;
