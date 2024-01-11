@@ -1,0 +1,31 @@
+.Warp_footer
+{
+   margin-top: 50px;
+  width: 100%;
+  height: 319px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #1b1b1e;
+}
+
+.InfoTexts
+{
+    color: #848999;
+    font-family: Pretendard;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 15px;
+}
+
+.InfoTexts{
+    color: #848999;
+  font-family: Pretendard;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
