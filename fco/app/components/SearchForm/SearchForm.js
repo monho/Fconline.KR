@@ -1,5 +1,5 @@
 'use client'
-import { useRouter,usePathname } from next/navigation;
+import { usePathname } from next/navigation;
 import { useEffect, useState } from 'react';
 import { FaSearch } from 'react-icons/fa';
 
