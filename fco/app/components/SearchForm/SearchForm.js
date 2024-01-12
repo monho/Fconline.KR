@@ -22,4 +22,3 @@ function SearchForm() {
 }
 
 export default SearchForm;
-1

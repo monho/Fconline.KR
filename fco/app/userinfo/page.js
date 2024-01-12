@@ -1,4 +1,5 @@
 // `app/page.tsx` is the UI for the `/` URL
+"use client"
 import "./main.css";
 import SearchForm from "../components/SearchForm/SearchForm";
 

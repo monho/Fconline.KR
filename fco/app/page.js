@@ -1,4 +1,5 @@
 // `app/page.tsx` is the UI for the `/` URL
+"use client"
 import "./global.css";
 import Header from "./userinfo/page";
 import Content from "./components/content/Content";
